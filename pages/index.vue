@@ -10,6 +10,18 @@
       title='some turtles'
       previewText='my first post'
     />
+    <PostPreview 
+      id="2"
+      thumbnail='https://images.unsplash.com/photo-1574923842719-94d5f9e28793?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80'
+      title='malo gato'
+      previewText='a cat'
+    />
+    <PostPreview 
+      id="1"
+      thumbnail='https://images.unsplash.com/photo-1532022160153-7735cd049992?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2090&q=80'
+      title='perro bueno'
+      previewText='Dalmatian'
+    />
   </section>
 
 </div>
@@ -38,6 +50,7 @@
   box-sizing: border-box;
   background-position: center;
   background-size: cover;
+  background-image: url('~assets/images/background.jpg')
 }
 
 .intro h1 {
