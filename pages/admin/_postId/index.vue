@@ -16,10 +16,10 @@ export default {
   data() {
     return {
       loadedPost: {
-        author: 'Maximilian',
-        title: 'My awesome Post',
-        content: 'Super amazing, thanks for that!',
-        thumbnailLink: 'https://static.pexels.com/photos/270348/pexels-photo-270348.jpeg'
+        author: 'Alex',
+        title: 'i made a post',
+        content: 'Much noble, so respect',
+        thumbnailLink: 'https://images.unsplash.com/photo-1563210080-dfe35c83e2eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1600&q=80'
       }
     }
   }
