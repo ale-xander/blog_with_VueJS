@@ -4,7 +4,12 @@
     <h1>some headline for front page</h1>
   </section>
   <section class="featured-posts">
-    <PostPreview />
+    <PostPreview 
+      id="1"
+      thumbnail='https://images.unsplash.com/photo-1577457674844-da86606d2de6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80'
+      title='some turtles'
+      previewText='my first post'
+    />
   </section>
 
 </div>
